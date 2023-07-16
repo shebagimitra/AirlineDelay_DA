@@ -1,4 +1,4 @@
-![image](https://github.com/shebagimitra/AirlineDelay_DA/assets/113200449/a2191cd0-7072-4045-84ce-7369037a549a)# AirlineDelay_DA
+# AirlineDelay_DA
 This is a project where I took a public data set from Kaggle which has data for airlines delay periods and causes in the United States from 2003 up to 2022. I took the data and analyzed it to find certain meaningful conclusions and comparisons that give the viewer a better understanding of the overall trends and outcomes of this data.
 You can find this data set at https://www.kaggle.com/datasets/ryanjt/airline-delay-cause. Keep in mind that the meanings and inferences of the columns are not clear within the data set. But I did some research and made a clarified inference sheet of the data headings. It will be in a separate file in this repository.
 I completed the entirety of this project using Python and its pandas module. All of the code and outcomes were made using Jupyter Notebook.
